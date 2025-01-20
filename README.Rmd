@@ -20,7 +20,7 @@ The function provides 18 color palettes based on dominant or 'signature' colors 
 Credits for the skeleton of the function go to [this blog](https://blog.devgenius.io/create-your-own-color-palette-function-in-r-64c8f21fc786).
 
 
-![all palettes contained at the moment](palette.png){width=350px}
+![all palettes contained at the moment](palette_names.png){width=350px}
 
 
 #### Example

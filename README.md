@@ -16,7 +16,7 @@ Credits for the skeleton of the function go to [this
 blog](https://blog.devgenius.io/create-your-own-color-palette-function-in-r-64c8f21fc786).
 
 <figure>
-<img src="palette.png" width="350"
+<img src="palette_names.png" width="350"
 alt="all palettes contained at the moment" />
 <figcaption aria-hidden="true">all palettes contained at the
 moment</figcaption>
