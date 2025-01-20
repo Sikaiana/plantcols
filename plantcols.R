@@ -1,6 +1,6 @@
 plantcols <- function (n,
                        cont=FALSE,
-                       name=c("atabapoese", "azlanii", "aurea", "blueoilfern", "brevirimosa", "cebublue", "confetti", "florida.bronze", "floraida.ghost", "painted.lady", "pinkprincess", "prince.of.orange",
+                       name=c("atabapoese", "azlanii", "aurea", "blueoilfern", "brevirimosa", "cebublue", "confetti", "florida.bronze", "florida.ghost", "painted.lady", "pinkprincess", "prince.of.orange",
                               "raven.var", "strawberry.ice", "strawberry.shake", "thai.constellation", "verrucosum","zebrina")){
   raven.var=rgb(c(45,198,139,98,186), c(35,116,93,65,151), c(32,101,87,62,151), maxColorValue=255)
   painted.lady=rgb(c(97,164,175,133,219), c(130,49,190,160,216), c(37,72,71,60,116), maxColorValue=255)
@@ -15,7 +15,7 @@ plantcols <- function (n,
   florida.ghost=rgb(c(72,240,169,97,216), c(97,240,193,130,223), c(34,212,103,37,149), maxColorValue=255)
   florida.bronze=rgb(c(74,27,155,127,73), c(65,74,102,76,129), c(45,34,45,22,73), maxColorValue=255)
   zebrina=rgb(c(48,206,108,121,130), c(28,210,156,100,157), c(8,184,81,65,9), maxColorValue=255)
-  aurea=rgb(c(0,240,155,58,97,244), c(82,227,220,156,141,247), c( 0,4,36,1,4,155), maxColorValue=255)
+  aurea=rgb(c(0,240,191,97,244), c(82,227,211,128,247), c(0,4,94,11,155), maxColorValue=255)
   confetti=rgb(c(224,230,146,199,219), c(228,199,162,215,154), c(179,180,81,116,174), maxColorValue=255)
   atabapoese=rgb(c(100,72,161,134,97), c(71,97,203,78,141), c(80,34,56,74,4), maxColorValue=255)
   strawberry.ice=rgb(c(49,82,224,122,230), c(92,32,182,96,144), c(48,37,171,71,168), maxColorValue=255)
